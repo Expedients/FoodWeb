@@ -1,0 +1,26 @@
+/* CSS Document */
+*{ padding:0px; margin:0px;}
+img{ border:none;}
+body{ background:url(../images/index_00.jpg);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-size: 100% 100%;}
+.dh a{ color:#480201; text-decoration:none; font-size:20px; font-weight:bold; display:block; width:180px; height:50px; background:#f7faf9da; line-height:50px; margin:5px 0px;}
+.dh a:hover{ background:#e9c9c8;}
+.dh a.hover{ background:#e9c9c8;}
+.wh{padding:15px 20px 0px; background:url(../images/bg.jpg) no-repeat #a3a196b0; position: fixed; background-size: 100% 100%;}
+ p{ font-size:18px; line-height:24px; padding:0px; margin:0px;}
+.tp tr td{ padding:0px; text-align:center; color:#ffffff; font-size:19px; line-height:20px;}
+.tp tr td img{display:block;width: 400px;margin: 0 auto;}
+.wh2{ background:#e9c9c8; border:1px solid #610000; padding:20px;}
+.wh2 div{ margin:20px 0px;}
+.tit{ background:url(../images/tit.jpg) no-repeat; height:35px; color:#fff; padding-left:50px; font-size:13px;}
+.tit a{ color:#fff; text-decoration:none;}
+.tit a.tit_bg{ color:#f6b213; font-weight:bold;}
+.jp{ border-bottom:1px solid #8f5654; border-right:1px solid #8f5654; margin-top:20px;}
+.jp tr td{ border-left:1px solid #8f5654; border-top:1px solid #8f5654; line-height:30px; font-size:12px; padding-left:10px;}
+.fh{ float:right; margin:20px 0px; width:100px; height:30px; display:block; text-align:center; line-height:30px; background:#000; color:#fff;}
+h4{ padding:0px; margin:0px;}
+.sj{ margin:20px 0px; font-size:12px; text-align:center; line-height:25px;}
+.sj img{ display:block;}
